@@ -1,0 +1,24 @@
+body {
+	background-color: pink;
+}
+#heading {
+	margin-left: 550px;
+}
+#description {
+	margin-left: 50px; 
+	margin-top: 30px; 
+	font-size: 25px;
+}
+#col1 {
+	height: 700px;
+	width: 550px;
+	background-color: green;
+	float: right;
+	margin-right: 30px;
+}
+#col2 {
+	height: 700px;
+	width: 550px; 
+	background-color: blue;
+	margin-left: 30px;
+}
